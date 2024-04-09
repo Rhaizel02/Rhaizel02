@@ -1,6 +1,6 @@
 ### Holaas 👋
 
-- 🔭 I’m currently working on DnD 
-- 🌱 I’m currently learning Angular
+- 🛠 I’m currently working on Role&Roll 
+- 📚 I’m currently learning Angular and SpringBoot
 - 📫 How to reach me: Linkedin
-- 😄 Pronouns: He/Him
+- 🎓 Education: Computer Science at University of Valencia
